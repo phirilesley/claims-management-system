@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClaimsManagement.Api/ClaimsManagement.Api.csproj" />
+    <Project Path="src/ClaimsManagement.Domain/ClaimsManagement.Domain.csproj" />
+    <Project Path="src/ClaimsManagement.Infrastructure/ClaimsManagement.Infrastructure.csproj" />
+  </Folder>
+</Solution>
